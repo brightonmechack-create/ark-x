@@ -1,0 +1,19 @@
+{
+  "name": "ARK X | Crypto Exchange",
+  "short_name": "ARK X",
+  "description": "ARK X - The future of crypto",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07050c",
+  "theme_color": "#07050c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
